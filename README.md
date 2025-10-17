@@ -1,4 +1,4 @@
-#🛒 Online Shopping Cart (GUI Based)
+🛒 Online Shopping Cart (GUI Based)
 
 📘 Project Description
 
